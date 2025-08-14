@@ -1,20 +1,20 @@
-# 🐾 Zoo Management Game (C++ + SQLite)
+# Zoo Management Game (C++ + SQLite)
 
 Welcome to the **Zoo Management Game**, a terminal-based project built with C++ and SQLite3. This game lets you manage animals, exhibits, and caretaking tasks in a simplified zoo simulation. It was built as a hands-on project using Replit and demonstrates concepts like data persistence, object-oriented programming, and simple game logic.
 
 ---
 
-## 🧰 Features
+## Features
 
-- 🦁 Add, update, and remove animals
-- 🏞️ Create and manage exhibits
-- 👩‍⚕️ Record animal care and feeding logs
-- 🗂️ Save and load data using **SQLite3**
-- 🔧 Built using `Makefile` and Replit’s custom configuration (`.replit`, `replit.nix`)
+- Add, update, and remove animals
+- Create and manage exhibits
+- Record animal care and feeding logs
+- Save and load data using **SQLite3**
+- Built using `Makefile` and Replit’s custom configuration (`.replit`, `replit.nix`)
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **C++**
 - **SQLite3** – for storing animal, exhibit, and caretaker records
@@ -23,7 +23,7 @@ Welcome to the **Zoo Management Game**, a terminal-based project built with C++ 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -46,7 +46,7 @@ make
 ./main
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 .
